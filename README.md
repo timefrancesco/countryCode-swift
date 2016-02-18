@@ -1,5 +1,4 @@
 # CountryCode
-a sample to build a nice country-code selector
 
 This project shows how to retrieve the international code number from the cellular network and display a picker which contains all the country and their international code number. 
 
